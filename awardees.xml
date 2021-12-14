@@ -15,7 +15,7 @@
 
 <!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"textAlign":"center","level":4} -->
-<h4 class="has-text-align-center">[ratemypost]</h4>
+
 <!-- /wp:heading --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
